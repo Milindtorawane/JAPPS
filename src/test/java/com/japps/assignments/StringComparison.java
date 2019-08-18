@@ -8,7 +8,7 @@ public class StringComparison {
 	public static void main(String[] args){
 
 		String A="Milind";
-		String B="Milinds";
+		String B="Milind";
 		System.out.println(A.equals(B));
 		System.out.println(A==B);
 

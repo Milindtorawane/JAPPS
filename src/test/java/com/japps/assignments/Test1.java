@@ -7,7 +7,9 @@ public class Test1 {
 		
 		
 		
-		
+		String ab="Sachin";
+		ab.concat("Tendulary");
+		System.out.println(ab);
 	}
 	
 }

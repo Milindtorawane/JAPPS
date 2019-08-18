@@ -15,9 +15,9 @@ public class ArmStrongNumber {
 		int a;
 	
 		
-		Scanner sc= new Scanner(System.in);
+		Scanner scs= new Scanner(System.in);
 		System.out.println("Please enter nuymber");
-		int Num=sc.nextInt();
+		int Num=scs.nextInt();
 		
 		
 		while(Num>0){

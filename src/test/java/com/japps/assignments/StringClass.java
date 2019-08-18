@@ -10,7 +10,7 @@ public class StringClass {
 		String s1="Milind";
 		String s2="Prasad";
 		String s3="Milind";
-		s1=s2;
+		s1=s3;
 		System.out.println(s1);
 	}
 

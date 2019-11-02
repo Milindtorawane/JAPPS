@@ -7,14 +7,12 @@ public class pattern {
 		pattern obj = new pattern();
 		// LeftPattern();
 		//start();
-		triangle();
-		//reverseTriangle();
+		//triangle();
+		reverseTriangle();
 	}
 
 	
-
 	public static void triangle() {
-
 		int i, j, k;
 		for (i = 1; i <= 3; i++) {
 			for (j = 3; j > i; j--) {
@@ -25,11 +23,9 @@ public class pattern {
 			}
 			System.out.println("");
 		}
-
 	}
 	
 	public static void reverseTriangle() {
-
 		int i, j, k;
 		for (i = 3; i >= 1; i--) {
 			for (j = 3; j > i; j--) {

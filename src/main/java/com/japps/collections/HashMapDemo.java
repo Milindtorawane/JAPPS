@@ -16,7 +16,8 @@ public class HashMapDemo {
 	    System.out.println("Initial list of elements: "+hm);  
 	      hm.put(100,"Amit");    
 	      hm.put(101,"Vijay");    
-	      hm.put(102,"Rahul");   
+	      hm.put(102,"Rahul"); 
+	     
 	       
 	      System.out.println("After invoking put() method ");  
 	      for(Map.Entry m:hm.entrySet()){    

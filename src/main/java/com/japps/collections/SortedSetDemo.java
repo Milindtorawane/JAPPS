@@ -51,6 +51,6 @@ public class SortedSetDemo {
 		//if the default sorting is there then it returns null
 		System.out.println("Comparator");
 		
+	
 	}
-
 }

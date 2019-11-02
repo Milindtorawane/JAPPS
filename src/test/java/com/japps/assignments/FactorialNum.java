@@ -10,6 +10,7 @@ public class FactorialNum {
 		
 		
 		Scanner sc= new Scanner(System.in);
+		System.out.println("Please enter number:");
 		int Num=sc.nextInt();
 		int fact=1;
 		for(int i=1;i<=Num;i++){

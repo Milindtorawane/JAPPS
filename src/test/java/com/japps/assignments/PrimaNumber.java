@@ -33,7 +33,7 @@ public class PrimaNumber {
 				}else{
 					
 					System.out.println("Is  prime number");
-					break;
+					
 				}
 				
 			}

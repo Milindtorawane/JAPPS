@@ -3,7 +3,6 @@ package com.japps.assignments;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.poi.util.SystemOutLogger;
 
 public class CountTheCharInString {
 	

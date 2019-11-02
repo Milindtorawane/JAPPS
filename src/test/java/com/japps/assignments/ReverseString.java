@@ -9,6 +9,9 @@ public class ReverseString {
 		//reversStringWithStringBuffer();
 		//reverstring();
 		System.out.println(reverseString("Milind"));
+//		String str="ABCD";
+//		System.out.println(str.substring(1));
+//		System.out.println(str.charAt(0));
 	}
 	
 	
